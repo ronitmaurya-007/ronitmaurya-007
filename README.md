@@ -37,14 +37,14 @@
 ### 🖼️ AI Image Generator - UI/UX Focused
 > A sleek web app that lets users generate images from text prompts using AI, with a clean and interactive interface.
 
-**Tech Stack**: HTML, CSS, JavaScript, Tailwind CSS (Optional: React)  
+**Tech Stack**: Python , Tensorflow  , numpy , pytorch , machine learning
 **Features**:
 - Clean, responsive UI with image grid
 - Modal preview, smooth hover effects
 - Dark mode toggle
 - Loading and error handling animations
 
-🔗 [View UI Project](https://github.com/ronitmaurya-007/ai-image-generator-ui)
+🔗 [View UI Project](https://github.com/ronitmaurya-007/ai-caption-genrator)
 
 ---
 
